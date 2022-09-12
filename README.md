@@ -1,8 +1,14 @@
-# HUNTER BIANCHI
+# **HUNTER BIANCHI**
 
-### Public Key: 
+Public Key: 
 
-### Plataform Address:
+Plataform Address:
+
+___
+
+### Who is/are Hunter Bianchi?
+
+Hunter Bianchi is a non-singular person who fight for freedom using distribution of information.
 
 <!--
 **hunterbianchi/hunterbianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
