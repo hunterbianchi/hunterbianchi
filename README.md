@@ -8,7 +8,12 @@ ___
 
 ### Who is/are Hunter Bianchi?
 
-Hunter Bianchi is a non-singular person who fight for freedom using distribution of information.
+Hunter Bianchi is a non-singular person who fight for freedom using [distribution of information](#what-is-distribution-of-information).
+
+___
+
+
+### What is Distribution of Information?
 
 <!--
 **hunterbianchi/hunterbianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
