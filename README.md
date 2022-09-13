@@ -6,46 +6,70 @@ Plataform Address:
 
 ___
 
-### Who is/are Hunter Bianchi?
+## Who is/are Hunter Bianchi?
 
-Hunter Bianchi is a non-singular person who fight for freedom using [distribution of information](#what-is-distribution-of-information).
+Hunter Bianchi is/are a non-singular person who fight for freedom using [distribution of information](#what-is-distribution-of-information).</br>
+
+So I may be "We" and We may be "I".</br>
+
+We are "We" when the movement We are within is made by a group.</br>
+
+I am "I" when the movement I am within is made by myself.</br>
+
+Hunter Bianchi is an Egregore focused on make Nations **Free**.
 
 ___
 
 
-### What is Distribution of Information?
+## What is Distribution of Information?
 
 </br>
+
 Distribution of information is the last level before the freedom.</br>
-No nation can oppress your citizens if they own information.
+No nation can oppress your citizens if they own [information](#what-kind-of-information-i-distribute) .
 
 ___
 
-### What kind of information I distribute?
+## What kind of information I distribute?
 
 </br>
+
 All of information needed to make an individual exist free. That information are organized under a [Blockchain](#what-kind-of-blockchain-we-use)
 
 ___
 
-### What kind of Blockchain We use?
+## What kind of Blockchain We use?
 
 </br>
 Our Blockchain starts to be public in 2022.
 
 Before that, we will explain to you our logic and consent.
 
-Our Blockchain's logic is simple: We create individual using [Elliptic Curves](#what-is-an-elliptic-curve) to define a [pair of keys](#what-kind-of-key-pair-we-use)
+Our Blockchain's logic is simple: We create individual using [Elliptic Curves](#what-is-an-elliptic-curve) to define a [pair of keys](#what-kind-of-key-pair-we-use) to the individual become an [actor](#what-is-an-actor) of this Blockchain
 
 ___
 
-### What kind of Key Pair We use?
+## What kind of Key Pair We use?
 
 </br>
 
 ___
 
-### What is an Elliptic Curve?
+## What is an **Actor**?
+
+</br>
+Actor is anyone who help the Blockchain works.</br>
+
+We have 4 kind of Actors:
+
+users
+miners
+fullnodes
+developers
+
+___
+
+## What is an Elliptic Curve?
 
 </br>
 TRÍADE uses the Elliptic Curve Digital Signature Algorithm (ECDSA) based on elliptic curve cryptography. The particular elliptic curve is known as secp256k1, which is the curve
@@ -137,7 +161,7 @@ This means that we get approximately 256/2 = 128 bits of security because √(22
 ___
 </br>
 
-### Finite Fields
+## Finite Fields
 
 </br>
 A field is an algebraic structure that lets you do everything you’re used to from basic math: you can add and multiply elements, and addition and multiplication have the usual properties you’d expect. More formally, the elements of a field form an Abelian (commutative) group with respect to addition, the non-zero elements form an Abelian group with respect to multiplication, and multiplication distributes over addition.
@@ -164,6 +188,32 @@ To compute the product of 5 and 6 in this field, we multiply (x² + 1)(x² + x).
 | Name: | Link: |
 | :--------------------: | :-----------------------: |
 | John D. Cook| https://www.johndcook.com/blog/finite-fields/ |
+
+___
+</br>
+
+Our song:
+
+Join us now and share the software;</br>
+You'll be free, hackers, you'll be free.</br>
+Join us now and share the software;</br>
+You'll be free, hackers, you'll be free.</br>
+
+Hoarders can get piles of money,</br>
+That is true, hackers, that is true.</br>
+But they cannot help their neighbors;</br>
+That's not good, hackers, that's not good.</br>
+
+When we have enough free software</br>
+At our call, hackers, at our call,</br>
+We'll kick out those dirty licenses</br>
+Ever more, hackers, ever more.</br>
+
+Join us now and share the software;</br>
+You'll be free, hackers, you'll be free.</br>
+Join us now and share the software;</br>
+You'll be free, hackers, you'll be free.</br>
+
 
 
 <!--
