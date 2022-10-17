@@ -34,7 +34,7 @@ ___
 
 </br>
 
-All of information needed to make an individual exist free. That information are organized under a [Blockchain](#what-kind-of-blockchain-we-use)
+All of information needed to make an individual exist free. That information are organized under a [Blockchain](#what-kind-of-blockchain-we-use) system
 
 ___
 
