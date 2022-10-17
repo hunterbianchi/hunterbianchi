@@ -2,7 +2,7 @@
 
 Public Key: 
 
-Plataform Address:
+Plataform Address: [https://triade-group.vercel.app/]()
 
 ___
 
