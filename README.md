@@ -1,6 +1,6 @@
 <div style="border:1px solid powerblue;width:100vw;heigth:100px;display:flex;background:white">
-    <img style="border-radious:10px" src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
-    <h1 style="color:#f00">HUNTER BIANCHI</h1>
+    <img style="border-radious:10px;color:red" src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
+    <h1 style="color:red">HUNTER BIANCHI</h1>
 </div>          
 
 Public Key: 
