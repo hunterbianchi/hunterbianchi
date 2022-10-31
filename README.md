@@ -1,9 +1,9 @@
-<div style="width:100vw;heigth:100px;display:flex;background:white">
+<div>
     <img src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
     <div>
         <div style="color:red">HUNTER BIANCHI</div>
         <div>Public Key:</div>
-        <div>Plataform Address: [https://triade-group.vercel.app/]()</div>
+        <div>Plataform Address: <a>https://triade-group.vercel.app/</a></div>
     </div>
 </div>          
 
