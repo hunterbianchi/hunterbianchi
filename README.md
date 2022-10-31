@@ -1,4 +1,4 @@
-<img src="https://github.com/hunterbianchi/png" alt="github profile png"/>
+<img src="https://github.com/hunterbianchi.png" alt="github profile png"/>
 
 # **HUNTER BIANCHI**
 
