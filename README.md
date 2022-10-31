@@ -2,7 +2,7 @@
     <img style="border-radious:10px;color:red" src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
     <div style="border:1px solid powerblue;width:100%;heigth:100px;display:flex;flex-direction:column;background:white">
         <strong style="color:red">HUNTER BIANCHI</strong>
-        Public Key:
+        <strong>Public Key:</strong>
         Plataform Address: [https://triade-group.vercel.app/]()
     </div>
 </div>          
