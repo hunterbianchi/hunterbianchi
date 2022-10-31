@@ -1,6 +1,6 @@
-<div style={border: '1px solid #06f'}></div>
-
-<img src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
+<div style={border: '1px solid #06f'}>
+    <img src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
+</div>
 
 # **HUNTER BIANCHI**
 
