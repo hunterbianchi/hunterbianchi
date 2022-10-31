@@ -3,7 +3,7 @@
     <div style="color:red;border:1px solid powerblue;width:calc(100% - 100px);heigth:100px;display:flex;flex-direction:column;background:white">
         <strong style="color:red">HUNTER BIANCHI</strong>
         <strong>Public Key:</strong>
-        Plataform Address: [https://triade-group.vercel.app/]()
+        <strong>Plataform Address: [https://triade-group.vercel.app/]()</strong>
     </div>
 </div>          
 
