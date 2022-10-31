@@ -1,4 +1,4 @@
-<div style={border: '1px solid #06f', width: '100%', heigth: '100px'}>
+<div style="border: '1px solid #06f'; width: '100%'; heigth: '100px'">
     <img src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
 </div>
 
