@@ -1,9 +1,7 @@
 <div style="border:1px solid #06f; width:100vw; heigth:100px; display:flex; background:#fff">
     <img style="border-radious:10px" src="https://github.com/hunterbianchi.png" alt="github profile png" width="100px"/>
-    test
-</div>
-
-# **HUNTER BIANCHI**
+    <h1>HUNTER BIANCHI</h1>
+</div>          
 
 Public Key: 
 
