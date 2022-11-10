@@ -3,7 +3,7 @@
     <div>
         <div style="color:red">HUNTER BIANCHI</div>
         <div>Public Key:</div>
-        <div>Plataform Address: <a>https://triade-group.vercel.app/</a></div>
+        <div>Plataform Address: <href><a>https://triade-group.vercel.app/</a></href></div>
     </div>
 </div>          
 
